@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,KACE,YAAa,CACb,qBAEF,CAEA,OACE,SACF,CAEA,WACE,wBACF","file":"main.158ffc0a.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\nform {\n  display: flex;\n  flex-direction: column;\n\n}\n\n.error {\n  color: #f00;\n}\n\n.error-box {\n  background-color: #ff724f;\n}\n"]}
